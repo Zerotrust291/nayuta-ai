@@ -1,2 +1,2 @@
-# nayuta-ai
-AI companion by Alex
+# NayutaCoin
+supply 21M
